@@ -254,19 +254,19 @@ msgid "Annotations for %1"
 msgstr ""
 
 msgid "Apache is not currently supported"
-msgstr ""
+msgstr "Apache jelenleg nincs támogatva"
 
 msgid "Archive"
-msgstr ""
+msgstr "Archívum"
 
 msgid "Archive by month"
-msgstr ""
+msgstr "Archívum havi bontásban"
 
 msgid "Archive history"
-msgstr ""
+msgstr "Archívum történet"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "Biztos vagy benne?"
 
 msgid "As cover in the header"
 msgstr ""
@@ -278,22 +278,22 @@ msgid "Assign text to collections"
 msgstr ""
 
 msgid "Attach"
-msgstr ""
+msgstr "Csatol"
 
 msgid "Attached images"
-msgstr ""
+msgstr "Csatolt képek"
 
 msgid "Attachments"
-msgstr ""
+msgstr "Csatolmányok"
 
 msgid "Author"
-msgstr ""
+msgstr "Szerző"
 
 msgid "Author and title. If one side document: title."
 msgstr ""
 
 msgid "Authors"
-msgstr ""
+msgstr "Szerzők"
 
 msgid "Authors and topics listing"
 msgstr ""
@@ -302,10 +302,10 @@ msgid "Authors for indexing"
 msgstr ""
 
 msgid "Auto"
-msgstr ""
+msgstr "Automatikus"
 
 msgid "Automatically generated"
-msgstr ""
+msgstr "Automatikusan generált"
 
 msgid "Automatically request and renew SSL certificates from Let's Encrypt"
 msgstr ""
@@ -322,16 +322,16 @@ msgid ""
 msgstr ""
 
 msgid "Back to the text"
-msgstr ""
+msgstr "Vissza a szöveghez"
 
 msgid "Bad request"
-msgstr ""
+msgstr "Hibás lekérés"
 
 msgid "Beamer color theme"
-msgstr ""
+msgstr "Beamer szín téma"
 
 msgid "Beamer theme"
-msgstr ""
+msgstr "Beamer téma"
 
 msgid "Beside topics and authors you can add more categories here"
 msgstr ""
@@ -350,13 +350,13 @@ msgid ""
 msgstr ""
 
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 msgid "Body"
-msgstr ""
+msgstr "Törzs"
 
 msgid "Bold"
-msgstr ""
+msgstr "Félkövér"
 
 msgid "Bookbuilder"
 msgstr ""
@@ -365,10 +365,10 @@ msgid "Bookbuilder page limit (integer)"
 msgstr ""
 
 msgid "Build it"
-msgstr ""
+msgstr "Generáld"
 
 msgid "Built-in"
-msgstr ""
+msgstr "Beépülő"
 
 msgid ""
 "By default, secondary footnotes use arabic numbering\n"
@@ -407,7 +407,7 @@ msgid "CSS Theme"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Mégse"
 
 msgid "Canonical name"
 msgstr ""
@@ -427,19 +427,19 @@ msgid "Center the chapter titles."
 msgstr "Center chapter titles."
 
 msgid "Changes"
-msgstr ""
+msgstr "Változások"
 
 msgid "Changes applied"
-msgstr ""
+msgstr "Változások alkalmazva"
 
 msgid "Changes applied."
-msgstr ""
+msgstr "Változások alkalmazva."
 
 #. ($c->stash->{revision}->title->uri)
 #. (revision.title.uri)
 #. (author_title)
 msgid "Changes for %1"
-msgstr ""
+msgstr "Változások %1-re vonatkoztatva"
 
 msgid "Changes saved, thanks! They are now waiting to be published"
 msgstr ""
@@ -451,7 +451,7 @@ msgid ""
 msgstr ""
 
 msgid "Chapter"
-msgstr ""
+msgstr "Fejezet"
 
 msgid "Chapter and section. If one side document: chapter."
 msgstr ""
@@ -826,7 +826,7 @@ msgid ""
 msgstr ""
 
 msgid "Example"
-msgstr ""
+msgstr "Példa"
 
 msgid "Exception"
 msgstr ""
@@ -858,25 +858,25 @@ msgid "Fetch"
 msgstr ""
 
 msgid "File"
-msgstr ""
+msgstr "Állomány"
 
 msgid "File already in the body"
 msgstr ""
 
 msgid "File extension"
-msgstr ""
+msgstr "FIle kiterjesztés"
 
 msgid "File format not allowed"
-msgstr ""
+msgstr "Fájl formátum nem engedélyezett"
 
 msgid "File too big"
-msgstr ""
+msgstr "Fájl túl nagy"
 
 msgid "File uploaded!"
-msgstr ""
+msgstr "Fájl feltöltve!"
 
 msgid "Files"
-msgstr ""
+msgstr "Fájlok"
 
 msgid "Files not referenced by any text"
 msgstr ""
@@ -886,7 +886,7 @@ msgid ""
 msgstr ""
 
 msgid "Filters"
-msgstr ""
+msgstr "Szűrők"
 
 msgid "Find the add catalogue menu."
 msgstr ""
@@ -895,7 +895,7 @@ msgid "Find the network library menu, or equivalent."
 msgstr ""
 
 msgid "First"
-msgstr ""
+msgstr "Első"
 
 msgid "First Author and Second Author"
 msgstr ""
@@ -904,10 +904,10 @@ msgid "First Author, Second Author"
 msgstr ""
 
 msgid "First slide"
-msgstr ""
+msgstr "Első dia"
 
 msgid "First text attachment or EPUB"
-msgstr ""
+msgstr "Első fájl csatolva az EPUBhoz"
 
 msgid "First you have to unpublish it via #DELETED."
 msgstr ""
@@ -1106,10 +1106,10 @@ msgid ""
 msgstr ""
 
 msgid "I am human"
-msgstr ""
+msgstr "Ember vagyok"
 
 msgid "I have a system user with SSH access"
-msgstr ""
+msgstr "Van SSH hozzáférésű felhasználóm"
 
 msgid "I want an imposed (ready to print) PDF"
 msgstr ""
@@ -1118,16 +1118,16 @@ msgid "I will provide my remote repository"
 msgstr ""
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "ISBN"
-msgstr ""
+msgstr "ISBN"
 
 msgid "Id"
-msgstr ""
+msgstr "Id"
 
 msgid "Identifier"
-msgstr ""
+msgstr "Azonosító"
 
 msgid ""
 "If by chance another text with the same author and title exists, choose the "
@@ -1154,7 +1154,7 @@ msgstr ""
 #. ("ssl/' _ esite.canonical _ '/cert.pem")
 #. ("ssl/' _ esite.canonical _ '/chain.pem")
 msgid "If not set %1 will be looked up from the application directory."
-msgstr ""
+msgstr "Ha a(z) %1 nincs beállítva akkor az alkalmazás-könyvtárból keresi."
 
 msgid ""
 "If present, hide the\n"
@@ -1295,31 +1295,31 @@ msgid "Insert the file into the body at the cursor position"
 msgstr ""
 
 msgid "Internal list of translations"
-msgstr ""
+msgstr "Belső lista a fordításokról"
 
 msgid "Invalid ID"
-msgstr ""
+msgstr "Hibás ID"
 
 msgid "Invalid URI"
-msgstr ""
+msgstr "Hibás URI"
 
 msgid "Invalid email"
-msgstr ""
+msgstr "Hibás email"
 
 msgid "Invalid field"
-msgstr ""
+msgstr "Hibás mező"
 
 msgid "Invalid name"
-msgstr ""
+msgstr "Hibás név"
 
 msgid "Invalid parameter"
-msgstr ""
+msgstr "Hibás paraméter"
 
 msgid "Invalid target"
-msgstr ""
+msgstr "Hibás cél"
 
 msgid "Invalid username"
-msgstr ""
+msgstr "Hibás felhasználónév"
 
 msgid ""
 "It is possible to have an additional set of\n"
@@ -1344,25 +1344,25 @@ msgid ""
 msgstr ""
 
 msgid "Italic"
-msgstr ""
+msgstr "Dőlt"
 
 msgid "Italics, bold, monospace and code, linebreaks..."
-msgstr ""
+msgstr "Dőlt, félkövér, fix szélességű, sortörés…"
 
 msgid "JPG, PNG and PDF are always allowed."
-msgstr ""
+msgstr "JPG, PNG és PDF mindig használhatók"
 
 msgid "Job status"
-msgstr ""
+msgstr "Folyamat állapot"
 
 msgid "Jobs"
-msgstr ""
+msgstr "Folyamat"
 
 msgid "Jobs (all sites)"
-msgstr ""
+msgstr "Folyamatok (minden oldalé)"
 
 msgid "Jobs waiting before yours:"
-msgstr ""
+msgstr "Folyamatok amik a tied előtt állnak sorban:"
 
 msgid "Just packs 2 consecutives logical pages on a physical one."
 msgstr ""
@@ -1388,34 +1388,34 @@ msgid "Label"
 msgstr ""
 
 msgid "Language"
-msgstr ""
+msgstr "Nyelv"
 
 msgid "Language code of the document (2 or 3 letters). "
 msgstr ""
 
 msgid "Language selection"
-msgstr ""
+msgstr "Nyelv kiválasztás"
 
 msgid "Languages supported"
-msgstr ""
+msgstr "Nyelvek támogatva"
 
 msgid "Last"
-msgstr ""
+msgstr "Utolsó"
 
 msgid "Last successful rebuild"
-msgstr ""
+msgstr "Utolsó sikeres kimenet"
 
 msgid "Last updated"
-msgstr ""
+msgstr "Utoljára frissítve"
 
 msgid "Latest entries"
-msgstr ""
+msgstr "Utolsó entitások"
 
 msgid "Layout"
 msgstr ""
 
 msgid "Leave it blank if you want it published right away."
-msgstr ""
+msgstr "Hagyd üresen ha rögtön publikálni akarod."
 
 msgid "Leave this empty to have it automatically generated"
 msgstr ""
@@ -1424,217 +1424,218 @@ msgid "Letter imposed PDF"
 msgstr "Letter imposed PDF"
 
 msgid "Letter paper"
-msgstr ""
+msgstr "Levél papír"
 
 msgid "Line spacing"
 msgstr ""
 
 msgid "Link"
-msgstr ""
+msgstr "Hivatkozás"
 
 msgid "Links"
-msgstr ""
+msgstr "Hivatkozások"
 
 msgid "List of paths to attach to this collection, one per line."
-msgstr ""
+msgstr "Elérési útvonalak amiket a ollekcióhoz adnál (soronként)"
 
 msgid "List of texts on hold"
-msgstr ""
+msgstr "Visszatartott szövegek listája"
 
 msgid "Lists"
-msgstr ""
+msgstr "Listák"
 
 msgid "Load"
-msgstr ""
+msgstr "Töltés"
 
 msgid "Load another session by token"
 msgstr ""
 
 #. ($pname)
 msgid "Loaded \"%1\" configuration"
-msgstr ""
+msgstr "Betöltve a \"%1\" konfiguráció"
 
 msgid "Loading"
-msgstr ""
+msgstr "Betöltés"
 
 msgid "Local"
-msgstr ""
+msgstr "Helyi"
 
 msgid "Local pages"
 msgstr ""
 
 msgid "Locale updated"
-msgstr ""
+msgstr "Locale frissítve"
 
 msgid "Locked editing, no upload possible"
 msgstr ""
 
 msgid "Log in"
-msgstr ""
+msgstr "Bejelentkezés"
 
 msgid "Login"
-msgstr ""
+msgstr "Bejelentkezés"
 
 msgid "Logout"
-msgstr ""
+msgstr "Kijelentkezés"
 
 msgid "Look into the account’s menu, there is an entry for that."
 msgstr ""
 
 msgid "Lost your password?"
-msgstr ""
+msgstr "Elveszett jelszó?"
 
 msgid "Magic answer"
-msgstr ""
+msgstr "Varázs válasz"
 
 msgid "Magic question"
-msgstr ""
+msgstr "Varázs kérdés"
 
 msgid "Mail from"
-msgstr ""
+msgstr "E-mail feladó"
 
 msgid "Main canonical hostname, without protocol"
 msgstr ""
 
 msgid "Main font"
-msgstr ""
+msgstr "Fő font"
 
 msgid "Main text"
-msgstr ""
+msgstr "Fő szöveg"
 
 msgid "Maintainer's FAQ"
-msgstr ""
+msgstr "Karbantartó GYIK"
 
 msgid "Make a link clickable"
-msgstr ""
+msgstr "Klikkelhető link"
 
 msgid "Make all links active"
-msgstr ""
+msgstr "Minden link aktív"
 
 msgid "Make all non-breaking spaces explicit and visible as ~~"
 msgstr ""
 
 msgid "Manage categories"
-msgstr ""
+msgstr "Kategóriák módosítása"
 
 msgid "Manage category types"
-msgstr ""
+msgstr "Kategória típusok módosítása"
 
 msgid "Margins: please choose a division factor or set width and height"
-msgstr ""
+msgstr "Margók: válassz egy arányszámot vagy add meg a cél-szélességet vagy cél-magasságot"
 
 msgid "Max image dimension in pixels, applies to both width and height"
-msgstr ""
+msgstr "Maximum kép felbontás pixelben; mind szélességre, mind magasságra vonatkozik"
 
 msgid "Max size for uploads in Mb"
-msgstr ""
+msgstr "Maximum méret a feltöltésnek (Mb)"
 
 msgid "Message"
-msgstr ""
+msgstr "Üzenet"
 
 #. (8)
 msgid "Minimum %1 characters"
-msgstr ""
+msgstr "Minimum %1 karakter"
 
 msgid "Mirror"
-msgstr ""
+msgstr "Tükör:"
 
 msgid "Mirror of:"
-msgstr ""
+msgstr "Tükrözve:"
 
 msgid "Missing #title header in the text!"
-msgstr ""
+msgstr "Hiányzó #cím fejléc a szövegben!"
 
 msgid "Missing alias"
-msgstr ""
+msgstr "Hiányzó alias"
 
 msgid "Missing character will be reported"
-msgstr ""
+msgstr "Hiányzó fejezet jelezve lesz"
 
 msgid "Missing redirection"
-msgstr ""
+msgstr "Hiányzó átirányítás"
 
 msgid "Mobile"
-msgstr ""
+msgstr "Mobil"
 
 msgid "Mobile applications"
-msgstr ""
+msgstr "Mobil alkalmazások"
 
 msgid "Mode"
-msgstr ""
+msgstr "Mód"
 
 msgid "Moderated wiki"
-msgstr ""
+msgstr "Moderált wiki"
 
 msgid "Mono font"
-msgstr ""
+msgstr "Fix szélességű font"
 
 msgid "More"
-msgstr ""
+msgstr "Több"
 
 msgid "Move down"
-msgstr ""
+msgstr "Lefelé"
 
 msgid "Move up"
-msgstr ""
+msgstr "Felfelé"
 
 msgid "Multilanguage: list of whitespace separated language codes"
 msgstr ""
 
 msgid "My description"
-msgstr ""
+msgstr "Én leírásom"
 
 msgid "N/A"
-msgstr ""
+msgstr "N/E"
 
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 msgid "Name plural"
-msgstr ""
+msgstr "Név (többes számban)"
 
 msgid "Name singular"
-msgstr ""
+msgstr "Név (egyes számban)"
 
 msgid "Network library listing screen."
 msgstr ""
 
 msgid "Never display the cover"
-msgstr ""
+msgstr "Sose mutasd a fedlapot"
 
 msgid "Never generate a table of content"
-msgstr "Never generate a table of contents"
+msgstr "Sose generálj tartalomjegyyzéket"
 
 msgid ""
 "Never generate the standard final page with title/author/notes/logo/site name"
 msgstr ""
+"Sose generálj alapértelmezett utolsó oldalt a címmel/szerzővel/jegyzetekkel/logoval/oldalnévvel"
 
 msgid "Never show teaser and/or cover in text lists"
-msgstr ""
+msgstr "Sose mutasd az előlapot vagy fedőt a szöveg listában"
 
 msgid "New"
-msgstr ""
+msgstr "Új"
 
 msgid "New revision"
-msgstr ""
+msgstr "Új verzió"
 
 msgid "New site id"
-msgstr ""
+msgstr "Új oldal id"
 
 msgid "Newer first"
-msgstr ""
+msgstr "Újabbak elől"
 
 msgid "Newer texts"
-msgstr ""
+msgstr "Újabb szövegek"
 
 msgid "Next"
-msgstr ""
+msgstr "Következő"
 
 msgid "Nice title"
-msgstr ""
+msgstr "Jó cím"
 
 msgid "No"
-msgstr ""
+msgstr "Nem"
 
 msgid "No data available in table"
 msgstr ""
@@ -1643,22 +1644,22 @@ msgid "No editing yet!"
 msgstr ""
 
 msgid "No matching records found"
-msgstr ""
+msgstr "Nincsenek illeszkedő bejegyzések"
 
 msgid "No result found!"
-msgstr ""
+msgstr "Nincsenek eredmények!"
 
 msgid "No revisions to show"
-msgstr ""
+msgstr "Nincsenek verziók"
 
 msgid "No text found!"
-msgstr ""
+msgstr "Szöveg nem található!"
 
 msgid "No text was added yet"
-msgstr ""
+msgstr "Nincs szöveg hozzáadva még"
 
 msgid "None"
-msgstr ""
+msgstr "Semmi"
 
 #. ($c->loc('Save')
 msgid ""
@@ -1667,19 +1668,19 @@ msgid ""
 msgstr ""
 
 msgid "Notes"
-msgstr "Notes"
+msgstr "Jegyzetek"
 
 msgid "Nothing to see here, so far"
-msgstr ""
+msgstr "Nincs még itt semmi"
 
 msgid "Nothing uploaded"
-msgstr ""
+msgstr "Nincs feltöltve semmi"
 
 msgid "Notify mail: blank field will disable them"
-msgstr ""
+msgstr "Értesítő email: üresen hagyva nem értesít"
 
 msgid "Notify to"
-msgstr ""
+msgstr "Értesítés ide"
 
 msgid ""
 "Now it has been aligned to the site's archive, but this means that there are "
@@ -1690,7 +1691,7 @@ msgid "Now we are going to populate it and get it ready"
 msgstr ""
 
 msgid "Number of jobs"
-msgstr ""
+msgstr "Folyamatok száma"
 
 msgid "Number of latest entries to display on the RSS (an integer)"
 msgstr ""
@@ -1699,13 +1700,13 @@ msgid "Number of results to show on paginated pages (an integer)"
 msgstr ""
 
 msgid "OPDS"
-msgstr ""
+msgstr "GPDS"
 
 msgid "Older first"
-msgstr ""
+msgstr "Régebbi elől"
 
 msgid "Older texts"
-msgstr ""
+msgstr "Régebbi szövegek"
 
 msgid "On text creation, enforce user to choose the URI"
 msgstr ""
@@ -1715,7 +1716,7 @@ msgid ""
 msgstr ""
 
 msgid "Open wiki"
-msgstr ""
+msgstr "Nyílt wiki"
 
 msgid "Option templates"
 msgstr ""
@@ -1732,33 +1733,33 @@ msgid ""
 msgstr ""
 
 msgid "Or log in, if you have an account."
-msgstr ""
+msgstr "Vagy jelentkezz be ha van regisztrációd."
 
 msgid "Or provide an HTML file to upload"
-msgstr ""
+msgstr "Vagy tölts fel egy HTML fájlt."
 
 msgid "Or wrap it in"
 msgstr ""
 
 msgid "Ordered List"
-msgstr "Ordered list"
+msgstr "Rendezett lista"
 
 msgid "Outer margin"
 msgstr ""
 
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 msgid "PDF logo"
-msgstr ""
+msgstr "PDF logo"
 
 msgid "PDFs cannot be used in the body."
-msgstr ""
+msgstr "PDFek nem használhatók a törzsben"
 
 #. ('#ATTACH')
 #. ("#ATTACH")
 msgid "PDFs not listed in the %1 directive will be stored but ignored."
-msgstr ""
+msgstr "PDFek amik nincsenek listázva a %1 direktívában figyelmen kívül lesznek hagyva de eltárolásra kerülnek."
 
 msgid "Page not found!"
 msgstr "Az oldal nem található!"
@@ -1857,28 +1858,28 @@ msgid "Please choose a text"
 msgstr "Válassz szöveget"
 
 msgid "Please choose the Beamer color theme"
-msgstr ""
+msgstr "Válassz Beamer szín témát"
 
 msgid "Please choose the Beamer theme"
-msgstr ""
+msgstr "Válassz Beamer témát"
 
 msgid "Please choose the font size"
-msgstr ""
+msgstr "Válassz font méretet"
 
 msgid "Please choose the main font"
-msgstr ""
+msgstr "Válassz fő fontot"
 
 msgid "Please choose the mono font"
-msgstr ""
+msgstr "Válasz fix szélességű fontot"
 
 msgid "Please choose the sans font"
-msgstr ""
+msgstr "Válassz sans fontot"
 
 msgid "Please describe shortly what you did"
 msgstr "Please briefly describe what you did"
 
 msgid "Please do not use a valuable password."
-msgstr ""
+msgstr "Ne használj máshol is használt jelszót!"
 
 msgid ""
 "Please do not use higher levels (part or chapter) for short articles with "
@@ -2074,7 +2075,7 @@ msgid "RSS aggregator"
 msgstr ""
 
 msgid "RSS feed"
-msgstr ""
+msgstr "RSS feed"
 
 msgid "Random"
 msgstr "Véletlenszerű"
@@ -2288,10 +2289,10 @@ msgid "Secondary footnotes"
 msgstr ""
 
 msgid "Section"
-msgstr ""
+msgstr "Szekció"
 
 msgid "Section and subsection. If one side document: section."
-msgstr ""
+msgstr "Szekció és alszekció. Ha egy oldals dokumentum akkor szekció."
 
 msgid "See here for more details."
 msgstr ""
@@ -2300,7 +2301,7 @@ msgid "See here for the full documentation."
 msgstr ""
 
 msgid "See the full manual for more details (english)"
-msgstr ""
+msgstr "A tövábbi részletekért olvasd el a teljes leírást (angolul)."
 
 msgid "Select"
 msgstr "Kiválasztás"
@@ -2410,7 +2411,7 @@ msgstr "Oldalak"
 
 #. ($invalid)
 msgid "Skipped %1 invalid sources!"
-msgstr ""
+msgstr "Átugrottunk %1 érvénytelen forrást!"
 
 msgid "Slides"
 msgstr "Diák"
@@ -2425,10 +2426,10 @@ msgid "So we can be sure we are not mailing passwords to random people"
 msgstr ""
 
 msgid "Some fields are missing, all are required"
-msgstr ""
+msgstr "Néhány mező hiányzik, mindegyik kötelező"
 
 msgid "Some fields are too long"
-msgstr ""
+msgstr "Néhány mező túl hosszú"
 
 msgid "Some ongoing revisions were found"
 msgstr ""
@@ -2479,10 +2480,10 @@ msgid "Start the document with an empty page"
 msgstr ""
 
 msgid "Started"
-msgstr "Elkezdves"
+msgstr "Elkezdve"
 
 msgid "Static page without javascript"
-msgstr ""
+msgstr "Statikus oldal javascript nélkül"
 
 msgid "Status"
 msgstr "Állapot"
@@ -2541,7 +2542,7 @@ msgid "Tag cloud with topics"
 msgstr "Címkefelhő témákkal"
 
 msgid "Task"
-msgstr ""
+msgstr "Folyamat"
 
 msgid "TeX options (advanced)"
 msgstr "TeX kapcsolók (haladó)"
@@ -2591,6 +2592,8 @@ msgid ""
 "The Beamer selections are relevant only if you activate the\n"
 "  slides output."
 msgstr ""
+"A Beamer beállítások csak akkor érvényesülnek ha aktiválod\n"
+"  a dia kimenetet."
 
 msgid "The OPDS address for this site is:"
 msgstr ""
@@ -2607,7 +2610,7 @@ msgstr ""
 
 #. ($uri)
 msgid "The description for %1 has been updated"
-msgstr ""
+msgstr "A %1 leírása frissítésre került"
 
 msgid ""
 "The differences between the list of footnotes and references is shown below."
@@ -2669,12 +2672,13 @@ msgid ""
 msgstr ""
 
 msgid "The title of the document. The only mandatory directive."
-msgstr ""
+msgstr "A dokumentum címe. Az egyetlen kötelező ¿irényelv?"
 
 msgid ""
 "The webserver needs to be reconfigured. Please execute in a root shell the "
 "following commands:"
 msgstr ""
+"A webszervert újra kell konfigurálni. Root shellben futtasd a következő parancsokat:"
 
 msgid "The whole book in as single signature"
 msgstr ""
@@ -2686,10 +2690,10 @@ msgid "Then fetch the updates from this page."
 msgstr ""
 
 msgid "There are failed jobs"
-msgstr ""
+msgstr "Vannak nem lefutott folyamatok"
 
 msgid "There are pending revisions"
-msgstr ""
+msgstr "Vannak függőben lévő revíziók"
 
 msgid "These texts are missing the unique id."
 msgstr ""
@@ -2718,7 +2722,7 @@ msgid ""
 msgstr ""
 
 msgid "This is the caption"
-msgstr ""
+msgstr "Ez a felirat"
 
 msgid ""
 "This mail has been sent to notify you about a new text\n"
@@ -2729,19 +2733,19 @@ msgid ""
 msgstr ""
 
 msgid "This revision is already published, ignoring changes"
-msgstr ""
+msgstr "Ez a verzió már publikálva lett, módosítások elvetése"
 
 msgid "This revision is being actively edited"
-msgstr ""
+msgstr "Ez a verzió aktívan szerkesztve van"
 
 msgid "This revision is being actively edited by you"
-msgstr ""
+msgstr "Ezt a verziót te szerkeszted aktívan"
 
 msgid "This revision is being edited by someone else!"
-msgstr ""
+msgstr "Ez a verzió más által is szerkesztés alatt van!"
 
 msgid "This section will not produce a slide"
-msgstr ""
+msgstr "Ez a szekció nem jelenik meg diaként"
 
 msgid "This setting affects only the text creation form."
 msgstr ""
@@ -2756,38 +2760,38 @@ msgid "This text does not exist"
 msgstr ""
 
 msgid "This text is a book"
-msgstr ""
+msgstr "Ez a szöveg könyv"
 
 msgid "This text is an article"
-msgstr ""
+msgstr "Ez a szöveg egy cikk"
 
 msgid "This text is new"
-msgstr ""
+msgstr "Ez a szöveg új"
 
 msgid "This text is not available"
-msgstr ""
+msgstr "Ez a szöveg nem áll rendelkezésre"
 
 msgid "This text is not public yet"
-msgstr ""
+msgstr "Ez a szöveg nincs még kiélesítve"
 
 msgid "This text is not published yet"
-msgstr ""
+msgstr "Ez a szöveg nincs még publikálva"
 
 #. (rev.is_deferred)
 msgid "This text will be deferred to %1"
 msgstr ""
 
 msgid "This user cannot be removed"
-msgstr ""
+msgstr "Ez a felhasználó nem törölhető"
 
 msgid "Thumbnail"
-msgstr ""
+msgstr "Előnézet"
 
 msgid "Title"
-msgstr "Title"
+msgstr "Cím"
 
 msgid "Title and chapter. If one side document: chapter."
-msgstr ""
+msgstr "Cím és fejezet. "
 
 msgid "Title and section.  If one side document: section."
 msgstr ""
@@ -2899,7 +2903,7 @@ msgid "URL pointing to an embeddable webchat"
 msgstr ""
 
 msgid "UTC"
-msgstr ""
+msgstr "UTC"
 
 msgid "Unable to load the bookbuilder session"
 msgstr ""
