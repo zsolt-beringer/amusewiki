@@ -1268,7 +1268,7 @@ msgid ""
 msgstr ""
 
 msgid "Image url"
-msgstr ""
+msgstr "Kép url"
 
 msgid "Images"
 msgstr "Képek"
@@ -1422,7 +1422,7 @@ msgid "Leave it blank if you want it published right away."
 msgstr "Hagyd üresen ha rögtön publikálni akarod."
 
 msgid "Leave this empty to have it automatically generated"
-msgstr ""
+msgstr "Hagyd üresen ahhoz hogy automatikusan generálódjon"
 
 msgid "Letter imposed PDF"
 msgstr "Letter imposed PDF"
@@ -1744,13 +1744,13 @@ msgid "Or provide an HTML file to upload"
 msgstr "Vagy tölts fel egy HTML fájlt."
 
 msgid "Or wrap it in"
-msgstr ""
+msgstr "Vagy tördeld be"
 
 msgid "Ordered List"
 msgstr "Rendezett lista"
 
 msgid "Outer margin"
-msgstr ""
+msgstr "Külső margó"
 
 msgid "PDF"
 msgstr "PDF"
@@ -1789,7 +1789,7 @@ msgid ""
 msgstr ""
 
 msgid "Paper thickness (0.10 should be appropriate for common 80g/m2 paper)"
-msgstr ""
+msgstr "Papír vastagság (0,10 szokott lenni a 80g/m2 papír)"
 
 msgid "Paragraph indentation in points (pt)"
 msgstr "Bekezdés beszedése (pontok)"
@@ -1849,7 +1849,7 @@ msgid "Place it in the body without description:"
 msgstr "Helyezd a tözsbe leírás nélkül"
 
 msgid "Place the notes on the back of the first page, impressum-style"
-msgstr ""
+msgstr "Helyezd a jegyzeteket az első oldal hátoldalára, nyomdai stílusban"
 
 msgid "Plain PDF"
 msgstr "Sima PDF"
@@ -1893,7 +1893,7 @@ msgstr ""
 
 #. (amw_group_name)
 msgid "Please ensure that your system user is member of the \"%1\" group"
-msgstr ""
+msgstr "Ellenőrizd hogy a rendszer felhasználó tagja-e a \"%1\" csoportnak"
 
 msgid ""
 "Please give us a username. It should *not* be a mail address.\n"
@@ -1935,6 +1935,9 @@ msgid ""
 "        Word/OpenOffice/LibreOffice/HTML document using the “paste\n"
 "        from word” button. This is supposed to preserve the markup."
 msgstr ""
+"Ha szövegszerkesztőből illesztenél be egy\n"
+"        Word/OpenOffice/LibreOffice/HTML dokumentumot akkor a “beillesztés\n"
+"        wordből“ gombot használd. Így megőrzödik a formázás."
 
 msgid ""
 "Please note: without any prefix, protocol or hostname, just\n"
@@ -2007,6 +2010,9 @@ msgid ""
 "Prefix for ordered lists may be “1.”, “a.”, “A.”,\n"
 "        “i.”, “I.”, depending on the list type you need."
 msgstr ""
+"Az előtag a rendezett listákhoz lehet “1.”, “a.”, “A.”,\n"
+"        “i.”, “I.”, attól függően hogy milyen listára van szükséged."
+
 
 msgid "Preview"
 msgstr "Előnézet"
@@ -2045,7 +2051,7 @@ msgid "Publish"
 msgstr "Közzétesz"
 
 msgid "Published in *A nice book*, published by My House, 2014"
-msgstr ""
+msgstr "Publikálva a *Egy szép könyv*, kiadó Én Házam, 2014"
 
 msgid "Publisher"
 msgstr "Kiadó"
@@ -2515,7 +2521,8 @@ msgid ""
 "Such an header will unpublish the text and put a\n"
 "  redirection in place, and will be listed here"
 msgstr ""
-
+"Ilyen fejléc visszavonja a publikációját a szövegnek\n"
+"  és átirányítást rak ide, valamint itt lesz listázva"
 msgid "Such an user already exists!"
 msgstr "A felhasználó már létezik"
 
@@ -2601,7 +2608,7 @@ msgstr ""
 "  a dia kimenetet."
 
 msgid "The OPDS address for this site is:"
-msgstr ""
+msgstr "Az OPDS címe az oldalnak:"
 
 msgid ""
 "The PDF logo value can be either an absolute path\n"
@@ -2982,35 +2989,35 @@ msgid "Use JS syntax highlight for code blocks"
 msgstr "JS szintaxis használata a"
 
 msgid "Use LuaLaTeX instead of XeLaTeX (slower)"
-msgstr ""
+msgstr "Használd a LuaLaTeX-et a XeLaTeX helyett (lassabb)"
 
 msgid "Use SSL for authenticated users"
-msgstr ""
+msgstr "Használd az SSL-t bejelentkezett felhasználókhoz"
 
 msgid "Use it as a teaser image adding to the header this line:"
-msgstr ""
+msgstr "Használd a fedlap képként a fejléchez adott következő szöveggel:"
 
 msgid "Use named table of contents anchors instead of numeric ones"
-msgstr ""
+msgstr "Használd a neves tartalomjegyzéket a számos helyett"
 
 msgid "Use one of the site's formats"
-msgstr ""
+msgstr "Használd az oldal formátumai közül az egyiket."
 
 #. (sign)
 msgid "Use optimized signatures with %1 pages each"
-msgstr ""
+msgstr "Használd az optimalizált aláírást minden %1 oldalanként"
 
 msgid "Use sans fonts for section titles"
-msgstr ""
+msgstr "Használd a talpatlan fontot szekció címekhez"
 
 msgid "Use the image as cover"
-msgstr ""
+msgstr "Használd a képet borítóként"
 
 msgid "Use the site locale"
-msgstr ""
+msgstr "Használd az oldal területi beállítását"
 
 msgid "Useful HTML snippets"
-msgstr ""
+msgstr "Hasznos HTML részletek"
 
 msgid ""
 "Useful for footnotes or in the headers of the document, where you cannot put "
@@ -3181,7 +3188,7 @@ msgid "You can do so answering a simple question."
 msgstr ""
 
 msgid "You can tune them editing them here."
-msgstr "You can tune them by editing them here."
+msgstr "Itt tudod finomhangolni ezeket."
 
 msgid ""
 "You can use the following prefixes to search a word in a specific field, e."
@@ -3196,7 +3203,7 @@ msgid "You have logged out"
 msgstr "Kijelentkeztél"
 
 msgid "You may want to resume the editing of one of them"
-msgstr ""
+msgstr "Lehet hogy folytatni akarod a szerkesztését az egyiknek"
 
 msgid ""
 "You may want to strip the leading “A”, “An”, “The”, and so on from the title"
@@ -3223,6 +3230,7 @@ msgstr "A böngésző nem támogatja az video tag-et."
 msgid ""
 "Your changes are saved and can be checked every time you hit Preview or Save"
 msgstr ""
+"A változtatásaid el lettek mentve és megtekinthetőek amikor megnyomod az Előnézet vagy Mentés gombot"
 
 msgid "Your chapter here..."
 msgstr "A fejezeted itt…"
@@ -3345,7 +3353,7 @@ msgid "mandatory"
 msgstr "kötelező"
 
 msgid "markup *not* interpreted"
-msgstr ""
+msgstr "markup *nincs* értelmezve"
 
 #. (site.binary_upload_max_size_in_mega)
 msgid "max %1 Mb"
