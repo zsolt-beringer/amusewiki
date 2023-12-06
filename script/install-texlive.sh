@@ -36,7 +36,7 @@ mkdir -p $homedir/local/texlive
 mkdir -p $homedir/local/install-texlive
 cd $homedir/local/install-texlive
 
-TEXMIRROR=ctan.ijs.si/tex-archive
+TEXMIRROR=mirror.ctan.org
 echo "Installing TeX live $year"
 # remove all stray files
 rm -rfv install-tl-*
