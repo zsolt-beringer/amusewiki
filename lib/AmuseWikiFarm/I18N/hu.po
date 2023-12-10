@@ -165,7 +165,7 @@ msgstr ""
 
 #. ($ok)
 msgid "Added %1 sources."
-msgstr ""
+msgstr "%1 forrás hozzáadva"
 
 msgid ""
 "Additional information (full date, original title, translators, credits, "
@@ -173,7 +173,7 @@ msgid ""
 msgstr ""
 
 msgid "Additional nginx configuration"
-msgstr ""
+msgstr "További nginx beállítások"
 
 #. (c.uri_for_action('/console/unpublished')
 #. (c.uri_for_action("/console/unpublished").path)
@@ -184,13 +184,13 @@ msgid ""
 msgstr ""
 
 msgid "Age:"
-msgstr ""
+msgstr "Életkor:"
 
 msgid "Alias"
-msgstr ""
+msgstr "Alias"
 
 msgid "Alias can't point to itself"
-msgstr ""
+msgstr "Alias nem mutathat önmagára"
 
 msgid ""
 "All kind of lists start with one or more leading\n"
@@ -198,16 +198,16 @@ msgid ""
 msgstr ""
 
 msgid "All languages"
-msgstr ""
+msgstr "Minden nyelv"
 
 msgid "All revisions"
-msgstr ""
+msgstr "Minden verzió"
 
 msgid "All sites"
-msgstr ""
+msgstr "Minden oldal"
 
 msgid "All users"
-msgstr ""
+msgstr "Minden felhasználó"
 
 msgid ""
 "Allow Unicode URIs for categories (author, topics). Recommended for non-"
@@ -1380,7 +1380,7 @@ msgid ""
 msgstr ""
 
 msgid "Keep in mind that some character may be missing in the required font."
-msgstr ""
+msgstr "Vedd figyelembe hogy néhány karakter hiányozhat a kiválasztott fontban."
 
 msgid ""
 "Keep in mind that unusually\n"
@@ -2083,7 +2083,7 @@ msgid "Quotes"
 msgstr ""
 
 msgid "RSS aggregator"
-msgstr ""
+msgstr "RSS aggregátor"
 
 msgid "RSS feed"
 msgstr "RSS feed"
@@ -2092,7 +2092,7 @@ msgid "Random"
 msgstr "Véletlenszerű"
 
 msgid "Read about the file naming scheme if you need to add files to the tree."
-msgstr ""
+msgstr "Olvass a fájl nevezéktanról ha hozzá akarsz adni fájlokat  a tree-hez."
 
 msgid "Read the whole text..."
 msgstr "Olvasd el a teljes szöveget…"
@@ -2139,7 +2139,7 @@ msgid "Redirections"
 msgstr "Átirányítások"
 
 msgid "Refresh and apply filters"
-msgstr ""
+msgstr "Frissítsd és alkalmazd a szűrőket"
 
 msgid "Reindex site"
 msgstr "Oldal újraindexelése"
@@ -2476,7 +2476,7 @@ msgid "Special pages"
 msgstr "Speciális oldalak"
 
 msgid "Specify a whitespace-separated list of languages to activate it."
-msgstr ""
+msgstr "Adj meg egy szóközzel elválasztott listátt nyelv listát hogy bekapcsold."
 
 msgid "Stale editing"
 msgstr "Félbehagyott szerkesztés"
@@ -2616,9 +2616,11 @@ msgid ""
 "            TeXlive tree. You can do so with the following commands.\n"
 "            The last one checks if the file can be found."
 msgstr ""
+"A PDF logo érték vagy abszolút elérési útvonal\n"
+"            vagy csak egy fájlnév ha installálva van "
 
 msgid "The changes will propagate automatically once you push."
-msgstr ""
+msgstr "A változások átkerülnek automatikusan push esetén."
 
 #. ($uri)
 msgid "The description for %1 has been updated"
@@ -2627,12 +2629,13 @@ msgstr "A %1 leírása frissítésre került"
 msgid ""
 "The differences between the list of footnotes and references is shown below."
 msgstr ""
+"A különbségek a lábjegyzetek listái és a hivatkozások között alább látható."
 
 msgid "The file uploaded is not an HTML file!"
 msgstr "A feltöltött fájl nem HTML!"
 
 msgid "The following settings provide the defaults for each format."
-msgstr ""
+msgstr "Az alábbi beállítások adják az alapértelmezéseket az egyes formátumokhoz."
 
 msgid "The following values are used to generate the webserver configuration."
 msgstr "A következő értékek lesznek használva a webszerver beállításához."
@@ -2643,7 +2646,7 @@ msgid ""
 msgstr ""
 
 msgid "The logo has the site name on itself"
-msgstr ""
+msgstr "A logo és az oldal neve önmagán"
 
 msgid "The optional subtitle"
 msgstr "A választható felirat"
@@ -2654,18 +2657,20 @@ msgid ""
 msgstr ""
 
 msgid "The password will be mailed at this address"
-msgstr ""
+msgstr "A jelszó erre az e-mailcímre lesz kiküldve"
 
 msgid "The reset link will expire in a hour."
-msgstr ""
+msgstr "A visszaállító link egy óra múlva lejár."
 
 msgid "The revision has the following messages"
-msgstr ""
+msgstr "Ez a verzió a következő üzenetekkel rendelkezik"
 
 msgid ""
 "The site will display the PDFs with a thumbnail at the\n"
 "        end of the document."
 msgstr ""
+"Az oldal PDFeket előnézeti képpel jeleníti meg\n"
+"        a dokumentum végén."
 
 msgid "The text structure is shown below."
 msgstr "A szöveg struktúráját lásd lentebb."
@@ -2674,7 +2679,7 @@ msgid "The text to show on the homepage preview"
 msgstr "A szöveg amit a homepage előnézetében lesz"
 
 msgid "The text was added to the bookbuilder"
-msgstr ""
+msgstr "A szöveg hozzá van adva a könyvkészítőhöz"
 
 msgid ""
 "The title of the document, for sorting purposes. Useful\n"
@@ -2682,9 +2687,13 @@ msgid ""
 "          nice title” could have this set to “Nice title”, and will be\n"
 "          listed under N, not under A."
 msgstr ""
+"A dokumentum címe rendezési célokra. Hasznos\n"
+"    ha névelő nélkül is akarod hivatkozni. Egy olyan szöveg aminek a címe\n"
+"    „A jó cím” „Jó cím” lesz és J alá kerül és nem az A-hoz."
+
 
 msgid "The title of the document. The only mandatory directive."
-msgstr "A dokumentum címe. Az egyetlen kötelező ¿irényelv?"
+msgstr "A dokumentum címe. Az egyetlen kötelező ¿irányelv?"
 
 msgid ""
 "The webserver needs to be reconfigured. Please execute in a root shell the "
@@ -2696,10 +2705,10 @@ msgid "The whole book in as single signature"
 msgstr "A teljes könyv egy sorban"
 
 msgid "Then approve the change as it would be a normal publishing."
-msgstr ""
+msgstr "Majd hagyd jóvá a módosítást ahogyan egy normál publikálásnál."
 
 msgid "Then fetch the updates from this page."
-msgstr ""
+msgstr "Majd töltsd le az update-et ehhez az oldalhoz."
 
 msgid "There are failed jobs"
 msgstr "Vannak nem lefutott folyamatok"
@@ -2717,6 +2726,8 @@ msgid ""
 "They should be paths relative to the webserver configuration root or "
 "absolute paths (recommended)."
 msgstr ""
+"Ezeknek az elérési útvonalaknak relatívaknak kell lenniök a webszerver"
+" konfigurácoiós gyökeréshez vagy abszolút elérési útvonalaknak kell lenniük (ajánlott)."
 
 msgid "This directive wants a whitespace separated list of filenames."
 msgstr "Ehhez a direktívához kellenek a fájlnevek szóközzel elválasztva"
@@ -2726,6 +2737,9 @@ msgid ""
 "        the wiki-like syntax leave it as is, fill the required fields\n"
 "        above and postpone the editing to the next step."
 msgstr ""
+"Ez egy WYSIWYG szerkesztő. Ha ezt használnád\n"
+"        a wiki szerű szintaxis helyett hagy így, add meg a szükséges mezőket\n"
+"        fentebb vagy halaszd el a szerkesztést a következő lépésben."
 
 msgid ""
 "This is relevant only for the generated files, where you may need to have an "
@@ -2881,12 +2895,16 @@ msgid ""
 "Turn links to images into images (affects site display only, static formats "
 "have the link)"
 msgstr ""
+"Legynek a linkek képek (az oldal kinézetét befolyásolja csak, a statikus tartlmak maradnak linkek)"
 
 msgid ""
 "Turn links without description to YouTube, Vimeo,\n"
 "            Gmaps into widgets (affects site display only, static\n"
 "            formats have the link)"
 msgstr ""
+"Legyenek a linkek leírások YouTube, Vimeo,\n"
+"            Gmaps beágyazások inkább (az oldal kinézetét befolyásolja csak,"
+" a statikus tartlmak maradnak linkek)"
 
 msgid "Two side layout"
 msgstr "Kétoldalas elrendezés"
@@ -2980,7 +2998,7 @@ msgstr "Töltsd fel a képet és az elnevezését. A fájlok átneveződnek."
 msgid ""
 "Uploaded and available images are shown and listed below the text preview."
 msgstr ""
-""
+"Feltöltött és rendelkezésre álló képek alább jelennek meg a szöveg előnézetben."
 
 msgid "Url"
 msgstr "Url"
@@ -3089,16 +3107,16 @@ msgid ""
 msgstr ""
 
 msgid "When you upload a PDF, split it into images to be inserted in the body"
-msgstr ""
+msgstr "Amennyiben egy PDFet töltesz fel szedd képekre és azt illeszd a törzsbe"
 
 msgid "Where does this text come from?"
 msgstr "Honnan jön ez a szöveg?"
 
 msgid "Whitelisted IP (for backup, one per line)"
-msgstr ""
+msgstr "Engedélyzési IP cím kivétellista (biztonsági mentésre, soronként egy)"
 
 msgid "Width of the cover image in percent of the text block width."
-msgstr ""
+msgstr "A borítókép a szöveg szélesség százalékában."
 
 msgid "Width:"
 msgstr "Szélesség:"
@@ -3179,6 +3197,7 @@ msgid ""
 "You can also link to a part of the text. Please refer to the manual for this "
 "feature"
 msgstr ""
+"A szöveg egy részére is hivatkozhatsz. Ezek a dokumentációban vannak leírva."
 
 #. (create_url)
 msgid "You can create a peer at %1"
@@ -3194,10 +3213,12 @@ msgid ""
 "You can use the following prefixes to search a word in a specific field, e."
 "g. \"title:example\""
 msgstr ""
+"Lehetőség van bizonyos metaadatban kereszni, pl.: „title:Működőképes anarchia”"
 
 msgid ""
 "You can't create a new revision because the text has not been published yet"
 msgstr ""
+"Nem csiálhatsz egy új verziót mert még nem lett publikálva ez a szöveg"
 
 msgid "You have logged out"
 msgstr "Kijelentkeztél"
@@ -3208,6 +3229,7 @@ msgstr "Lehet hogy folytatni akarod a szerkesztését az egyiknek"
 msgid ""
 "You may want to strip the leading “A”, “An”, “The”, and so on from the title"
 msgstr ""
+"Lehet hogy pl. le akarod vágni a cím elejei „A”, „Az”, „Egy” névelőt"
 
 msgid "You may want to use one of these images"
 msgstr "Ezekt a képeket használhatnád"
@@ -3216,6 +3238,8 @@ msgid ""
 "You sent credentials over an unencrypted connection. Please switch to HTTPS, "
 "login, and change your password right away. This shouldn't happen."
 msgstr ""
+"A bejelentkezési adatokat nem titkosított kapcsolaton keresztül küldted. Válts HTTPS-re,"
+"és bejelentkezés után változtasd meg a jelszót. Ennek nem szabadott volna megtörténnie."
 
 #. (edit_url)
 msgid "You should change your password right away at %1"
@@ -3455,6 +3479,7 @@ msgid ""
 "    while editing, but it's still there, in case someone wants to pick\n"
 "    it up when editing a text."
 msgstr ""
+""
 
 #~ msgid "texts sorted by topics"
 #~ msgstr "texts sorted by topic"
