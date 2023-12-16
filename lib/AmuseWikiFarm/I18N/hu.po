@@ -484,7 +484,7 @@ msgid ""
 msgstr ""
 "URL-ek változtatása rossz gyakorlat. \n"
 "Amennyiben érted hogy miért csinálod akkor lehet törölni \n"
-" a jelenleg létező szövegben használhatod a #DELETED direktívát\n"
+" a jelenleg létező szöveget és használhatod a #DELETED direktívát\n"
 " az új szövegre irányítva."
 
 msgid "Chapter"
