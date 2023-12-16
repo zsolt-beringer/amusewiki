@@ -18,50 +18,52 @@ msgstr ""
 
 #. ($filename)
 msgid "%1 doesn't exist"
-msgstr ""
+msgstr "%1 nem létezik"
 
 #. ([$total])
 msgid "%1 jobs deleted"
-msgstr ""
+msgstr "%1 folyamat törölve"
 
 #. ([$total])
 msgid "%1 jobs rescheduled"
-msgstr ""
+msgstr "%1 folyamat újraütemezve"
 
 #. ($c->stash->{site}->full_name)
 #. (site.full_name)
 msgid "%1 on mobile"
-msgstr ""
+msgstr "%1 mobil nézetben"
 
 #. (text.pages_estimated)
 msgid "%1 pp."
-msgstr ""
+msgstr "%1 oldal."
 
 msgid "(leave blank to keep the current one)"
-msgstr ""
+msgstr "(hagyd üresen hogy a jelenlegit tartsd meg)"
 
 msgid "(narrowest)"
-msgstr ""
+msgstr "(legkeskenyebb)"
 
 msgid "(smart quotes, links, footnotes, etc.)"
-msgstr ""
+msgstr "(okos idézetek, linkek, lábjegyzetek, stb.)"
 
 msgid "(use that as main link in static mirror as well)"
-msgstr ""
+msgstr "(használd a fő link esetében és a statikus mirror esetében is)"
 
 msgid "(widest)"
-msgstr ""
+msgstr "(legszélesebb)"
 
 msgid "A blank line (or more blank lines) starts a new paragraph."
-msgstr ""
+msgstr "Üres sor (több üres sor) kezdi az új bekezdést."
 
 msgid "A collection with this URI already exists"
-msgstr ""
+msgstr "A gyűjteménye ahol az URI már létezik"
 
 msgid ""
 "A cover image was already added, but you can replace it uploading\n"
 "              a new one."
 msgstr ""
+"A borító kép ahol hozzá van adva és kicserélhető feltöltéssel\n"
+"              egy újra."
 
 msgid ""
 "A footnote is a line which starts with a number between square\n"
@@ -69,13 +71,13 @@ msgid ""
 msgstr ""
 
 msgid "A line which starts with 2 or more whitespaces is a quotation."
-msgstr ""
+msgstr "A sor 2 vagy több szóközzel kezdődik akkor idézet."
 
 msgid "A line which starts with 20 or more whitespaces is right-aligned."
-msgstr ""
+msgstr "A sor 20 vagy több szóközzel kezdődik akkor az jobbra igazított."
 
 msgid "A line which starts with 6 or more whitespaces is centered."
-msgstr ""
+msgstr "A sor ami 6 vagy több szóközzel kezdődik az középre van igazítva."
 
 msgid ""
 "A list of links and labels to insert into the top\n"
@@ -88,52 +90,52 @@ msgid "A new text has been created at %1"
 msgstr ""
 
 msgid "A nice title"
-msgstr ""
+msgstr "Egy szép cím"
 
 msgid "A4 imposed PDF"
 msgstr "A4 imposed PDF"
 
 msgid "A4 paper"
-msgstr ""
+msgstr "A4"
 
 msgid "A5 paper"
-msgstr ""
+msgstr "A5"
 
 msgid "A6 paper (also suitable for e-readers)"
-msgstr ""
+msgstr "A6 (mobil nézetre is jó)"
 
 msgid "Abandoned editing in progress, feel free to check the diff and resume"
-msgstr ""
+msgstr "Elhagyott szerkesztés folyamatban, nézz rá a diffre és folytasd"
 
 msgid "Action"
-msgstr ""
+msgstr "Akció"
 
 msgid "Activate the blog-style look and feel"
-msgstr ""
+msgstr "AKtiváld a blog stílusú megjelenést"
 
 msgid "Active"
-msgstr ""
+msgstr "Aktív"
 
 msgid "Add"
-msgstr ""
+msgstr "Hozzáad"
 
 msgid "Add a cover image (PNG or JPG)"
-msgstr ""
+msgstr "Borító hozzáadása (PNG vagy JPG)"
 
 msgid "Add a new text"
-msgstr ""
+msgstr "Új szöveg hozzáadása"
 
 msgid "Add an attachment"
-msgstr ""
+msgstr "Új csatolmány hozzáadása"
 
 msgid "Add crop marks to the PDF"
-msgstr ""
+msgstr "VÁgási segédvonalak hozzáadása a PDFhez"
 
 msgid "Add new remote repository"
-msgstr ""
+msgstr "TÁvoli repó hozzáadása"
 
 msgid "Add non-breaking spaces where appropriate for the language"
-msgstr ""
+msgstr "Tördelhető szóközök hozzáadása a nyelvtan szerint"
 
 msgid ""
 "Add paginator for text listing when the number of texts is greater than "
@@ -141,22 +143,22 @@ msgid ""
 msgstr ""
 
 msgid "Add sections to the bookbuilder"
-msgstr ""
+msgstr "Szekciók hozzáadása a könyvkészítőhöz"
 
 msgid "Add the OPDS URL"
-msgstr ""
+msgstr "ODPS URL hozzáadása"
 
 msgid "Add the selected parts to the bookbuilder"
-msgstr ""
+msgstr "A kiválasztott részek hozzáadása a könyvkészítőhöz"
 
 msgid "Add the whole text"
-msgstr ""
+msgstr Teljes szöveg hozzáadása""
 
 msgid "Add this text to the bookbuilder"
-msgstr ""
+msgstr "A szöveg hozzáadása a könyvkészítőhöz"
 
 msgid "Add to colophon"
-msgstr ""
+msgstr "Kolofon hozzáadása"
 
 msgid ""
 "Add up to 20 URLs. They need to be Amusewiki URLs, either the whole site, a "
@@ -171,6 +173,8 @@ msgid ""
 "Additional information (full date, original title, translators, credits, "
 "etc)."
 msgstr ""
+"További információk (teljes dátum, eredeti cím, fordítások, "
+"köszönetnyilvánítások, stb.)"
 
 msgid "Additional nginx configuration"
 msgstr "További nginx beállítások"
