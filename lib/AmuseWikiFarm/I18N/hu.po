@@ -380,13 +380,13 @@ msgstr ""
 "        numbering"
 
 msgid "By number of pages, ascending"
-msgstr ""
+msgstr "Oldalszám szerint növekvő"
 
 msgid "By number of pages, descending"
-msgstr ""
+msgstr "Oldalszám szerint csökkenő"
 
 msgid "By relevance"
-msgstr ""
+msgstr "Relevancia szerint"
 
 msgid "By sku ascending"
 msgstr ""
@@ -395,30 +395,30 @@ msgid "By sku descending"
 msgstr ""
 
 msgid "By title A-Z"
-msgstr ""
+msgstr "Cím szerint A-Zs"
 
 msgid "By title Z-A"
-msgstr ""
+msgstr "Cím szerint Zs-A"
 
 msgid "CSS Alternate Theme (Dark mode, optional)"
 msgstr ""
 
 msgid "CSS Theme"
-msgstr ""
+msgstr "CSS téma"
 
 msgid "Cancel"
 msgstr "Mégse"
 
 msgid "Canonical name"
-msgstr ""
+msgstr "Kanonikus név"
 
 msgid "Categories"
-msgstr ""
+msgstr "Kategóriák"
 
 #. ($site->canonical)
 #. (site.canonical)
 msgid "Category types for %1"
-msgstr ""
+msgstr "Kategóriák a következő típushoz: %1"
 
 msgid "Center all the sectioning titles."
 msgstr "Center all section titles."
@@ -454,28 +454,28 @@ msgid "Chapter"
 msgstr "Fejezet"
 
 msgid "Chapter and section. If one side document: chapter."
-msgstr ""
+msgstr "Fejezet és szekció. Egy oldalas dokumentumoknál: fejezet."
 
 msgid "Chapter, only for chapter divisions in books"
-msgstr ""
+msgstr "Fejezet, csak a fejezetekre osztott könyveknél"
 
 msgid "Cheatsheet for the markup"
 msgstr "Markup cheatsheet"
 
 msgid "Check"
-msgstr ""
+msgstr "Ellenőrzés"
 
 msgid "Check mail sending and send mail to:"
-msgstr ""
+msgstr "ELlenőrizd az e-mail küldést azza hogy ide küldesz:"
 
 msgid "Choose a paper format"
-msgstr ""
+msgstr "Válassz papír formátumot"
 
 msgid "Clear the book list"
-msgstr ""
+msgstr "Töröld a könyv listát"
 
 msgid "Click on the images to get the sample PDF"
-msgstr ""
+msgstr "Klikkelj a képekre hogy megnézd a példa PDF-et"
 
 msgid "Clone"
 msgstr "Klónozás"
@@ -816,18 +816,26 @@ msgid ""
 "Even if this site has a responsive, mobile-friendly layout,\n"
 "  it does not provide a dedicated mobile application."
 msgstr ""
+"Bármennyire is igyekeztek mobil-barát weboldal fejlesztésével\n"
+"  nincs hozzá külön applikáció."
 
 msgid ""
 "Every\n"
 "        section will generate a slide. You need to do proper\n"
 "        sectioning for this to work."
 msgstr ""
+"Minden \n"
+"        szekció egy dia lesz. Jó szekció felosztás kell"
+"        a használatához."
 
 msgid ""
 "Exactly like 2up, but the sheets are meant to be cut\n"
 "        horizontally first and then stack on each other. This way you\n"
 "        can print, for example, A6 booklets on A4."
 msgstr ""
+"Pontosan 2up, de az ívet kettévágjuk\n"
+"        horizontálisan először aztán egymásra rakjuk. Így \n"
+"        nyomtathatsz pl A6 kiadványokat A4-es lapra."
 
 msgid "Example"
 msgstr "Példa"
@@ -888,6 +896,7 @@ msgstr "A fájlok nincsenek hivatkozva egy szöveg által sem"
 msgid ""
 "Fill with blank pages before the last page if the signature is not full."
 msgstr ""
+"Töltsd ki az üres oldalakat mielőtt az utolsó oldali aláírás nem tölti azt ki."
 
 msgid "Filters"
 msgstr "Szűrők"
@@ -923,12 +932,14 @@ msgid "Fixed 16 pages signatures on 2 sheets, with double individual folding."
 msgstr ""
 
 msgid "Fixed 16 pages signatures on a single sheet, with triple folding."
-msgstr ""
+msgstr "Fix 16 oldalas aláírások egy íven hármas osztatúan."
 
 msgid ""
 "Fixed signatures of 8 pages, to be cut horizontally, folded individually, "
 "and bound together."
 msgstr ""
+"Fix 8 oldalas aláírások horizontális vágással, egyesével hajtogatva, "
+"és összefűzve."
 
 msgid "Fixed topic list"
 msgstr "Rögzített téma lista"
@@ -949,15 +960,16 @@ msgid ""
 msgstr ""
 
 msgid "For texts from the internet use"
-msgstr ""
+msgstr "Internetes szövegekhez használd"
 
 msgid "For texts without a table of content, start text on the very first page"
-msgstr ""
+msgstr "Tartalomjegyzék nélküli szöveghez ami az első oldalon kezdődik"
 
 msgid ""
 "For topics and authors redirections, you can create them\n"
 "  here"
 msgstr ""
+"Témákhoz és szerző átirányításhoz, itt tudod létrehozni ezeket"
 
 msgid "Force a line break."
 msgstr "Újsor beszúrása"
@@ -999,12 +1011,14 @@ msgid "Generic (fits in A4 and Letter)"
 msgstr "Általános (levél és A4 papírra is nyomtatható)"
 
 msgid "Get generated URI"
-msgstr ""
+msgstr "Használd a generált URI-t"
 
 msgid ""
 "Get the repository HTTPS URL, e.g. https://example.com/git/test and add it "
 "using the form you can find above. You can have one personal repository."
 msgstr ""
+"HTTPS URL-t használj pl. https://example.com/git/test és add hozzá "
+"a fenetbbi form segítségével. Lehet a személyes repód is."
 
 msgid "Git"
 msgstr "git"
@@ -1019,6 +1033,8 @@ msgid ""
 "HTML code to append to each regular page, inserted\n"
 "            verbatim, so be careful"
 msgstr ""
+"HTML kód amit minden oldalhoz hozzáfűzünk\n"
+" karakter szerinti, légy körültekintő!"
 
 msgid ""
 "HTML to append to each special page, inserted\n"
@@ -1027,7 +1043,7 @@ msgid ""
 msgstr ""
 
 msgid "HTML to insert in the footer of the layout, below the links"
-msgstr ""
+msgstr "HTML beillesztése a láblécbe, az alábbi linkekkel"
 
 msgid "HTML to insert into the left sidebar"
 msgstr "HTML a bal oldali oldalsávba"
@@ -1065,13 +1081,16 @@ msgid "Help Text"
 msgstr "Súgó szöveg"
 
 msgid "Here you can find a preview of the Beamer themes and color themes"
-msgstr ""
+msgstr "Itt találod az előnézetekeet a Beamer témákhoz és szín témákhoz"
 
 msgid ""
 "Here you can save or load your templates. The text list\n"
 "      and the cover image are excluded by the saved settings. You can\n"
 "      use this to save paper/fonts/imposition and other options."
 msgstr ""
+"Itt töltheted be a saját sablonjaidat. A szöveg lista\n"
+" és borítókép figyelmen kívül vannak hagyva a beállítások által.\n"
+" Így papírt/fontot/impozíciót itt tudod menteni."
 
 msgid "Higher division factor means narrower margins"
 msgstr "Nagyobb osztó keskenyebb margót jelent"
@@ -1108,6 +1127,8 @@ msgid ""
 "  from mobile reading applications which support the so-called OPDS\n"
 "  protocol."
 msgstr ""
+"Mindazonáltal, böngészheted, keresheted és letöltheted a szövegeket\n"
+"  mobil olvasáshoz használt appot amik támogatják az ODPS protokollt.\n"
 
 msgid "I am human"
 msgstr "Ember vagyok"
