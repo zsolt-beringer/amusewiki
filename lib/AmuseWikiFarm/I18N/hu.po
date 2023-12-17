@@ -300,13 +300,13 @@ msgid "Are you sure?"
 msgstr "Biztos vagy benne?"
 
 msgid "As cover in the header"
-msgstr ""
+msgstr "Használat borítóként a fejlécben"
 
 msgid "As regular image in the body"
-msgstr ""
+msgstr "Használat képként a törzsben"
 
 msgid "Assign text to collections"
-msgstr ""
+msgstr "Szöveg hozzáadása kollekciókhoz"
 
 msgid "Attach"
 msgstr "Csatol"
@@ -321,16 +321,16 @@ msgid "Author"
 msgstr "Szerző"
 
 msgid "Author and title. If one side document: title."
-msgstr ""
+msgstr "Szerző és cím. Egy oldalas dokumentumnál: cím."
 
 msgid "Authors"
 msgstr "Szerzők"
 
 msgid "Authors and topics listing"
-msgstr ""
+msgstr "Szerző és témák listája"
 
 msgid "Authors for indexing"
-msgstr ""
+msgstr "Szerző katalogizáláshoz"
 
 msgid "Auto"
 msgstr "Automatikus"
@@ -339,18 +339,20 @@ msgid "Automatically generated"
 msgstr "Automatikusan generált"
 
 msgid "Automatically request and renew SSL certificates from Let's Encrypt"
-msgstr ""
+msgstr "Automatikusan SSL cert megújítást Let's Encrypt segítségével"
 
 msgid "Available"
-msgstr ""
+msgstr "Elérhető"
 
 msgid "Available category tags for header"
-msgstr ""
+msgstr "Elérhető kategória címkék a fejléchez"
 
 msgid ""
 "Avoid hyphenation on the last word of a sentence (it could result in bad "
 "spacing)"
 msgstr ""
+"Az elválasztás elkerülése a mondat utolsó szaván (hibás"
+" tördelést eredményezhet)"
 
 msgid "Back to the text"
 msgstr "Vissza a szöveghez"
@@ -368,7 +370,7 @@ msgid "Beside topics and authors you can add more categories here"
 msgstr "Témákon és szerzőkön kívül kategóriákat is itt adhatod meg"
 
 msgid "Binding correction in millimeters (additional inner margin)"
-msgstr ""
+msgstr "Kötési korrekió miliméterben (hozzáadódik a belső margóhoz)"
 
 msgid ""
 "Blocks of 16 pages to be folded twice and then bound\n"
@@ -671,6 +673,8 @@ msgid ""
 "Deleting a revision is safe if a text has been\n"
 "    published. Otherwise deleting it you'll lose the unpublished changes"
 msgstr ""
+"Verzió törlése akkor biztonságos ha már publikálva\n"
+" lett a szöveg. Egyébként a törlés alkalmával a nem publikált változások elvesznek"
 
 msgid "Description"
 msgstr "Leírás"
@@ -682,6 +686,8 @@ msgid ""
 "Description lists use a double colon to separate the\n"
 "        term and the description."
 msgstr ""
+"Leírás listák dupla vesszőt használnak az kifejezések\n"
+" és a leírások elválasztásához."
 
 msgid "Desired URI"
 msgstr "Kívánt URI"
