@@ -1504,7 +1504,7 @@ msgid "Language"
 msgstr "Nyelv"
 
 msgid "Language code of the document (2 or 3 letters). "
-msgstr ""
+msgstr "Nyelvi kód a dokumentumhoz (2 vagy 3 karakter)"
 
 msgid "Language selection"
 msgstr "Nyelv kiválasztás"
@@ -1779,6 +1779,8 @@ msgid ""
 "Not finished yet! Please have a look at the text and then click on \"%1\" to "
 "finalize your submission!"
 msgstr ""
+"Nincs még befejezve! Kérlek nézd át a szöveget és klikelj a \"%1\"-re"
+" hogy véglegesítsd a beküldésed!"
 
 msgid "Notes"
 msgstr "Jegyzetek"
@@ -1833,10 +1835,10 @@ msgid "Open wiki"
 msgstr "Nyílt wiki"
 
 msgid "Option templates"
-msgstr ""
+msgstr "Opció sablonok"
 
 msgid "Optional, defaults to the author directive"
-msgstr ""
+msgstr "Választható, alapértelmezetten a szerző direktíva"
 
 msgid ""
 "Or create a new revision, at your own peril. Having multiple\n"
@@ -2072,6 +2074,7 @@ msgid ""
 "Please replace the example URL in the next line with the real one with SSH "
 "protocol"
 msgstr ""
+"Kérlek írd ád a példa URL-t egy valós SSH protokoll bélire"
 
 msgid "Please select"
 msgstr "Válassz"
@@ -3075,6 +3078,7 @@ msgid ""
 "Unconditionally remove all the invisible non-breaking\n"
 "                spaces in the text"
 msgstr ""
+"Törölj minden láthatatlan nem tördelhető szóközta a szövegben."
 
 #. (shared)
 msgid ""
