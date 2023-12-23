@@ -2041,6 +2041,7 @@ msgid ""
 "Please do not use higher levels (part or chapter) for short articles with "
 "sections."
 msgstr ""
+"Ne használj magasabb szüntet (részt vagy fejezetet) rövid cikkekhez szekciókkal."
 
 #. (amw_group_name)
 msgid "Please ensure that your system user is member of the \"%1\" group"
