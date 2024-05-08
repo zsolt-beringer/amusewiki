@@ -755,7 +755,7 @@ msgid "Downloads"
 msgstr "Letöltések"
 
 msgid "E.g. some word AND title:\"My Title\" AND author:Author OR year:2017"
-msgstr "Pl. pár szó ÉS cím:"\"Én címem\ ÉS szerző:Szerző vagy év:2017"
+msgstr "Pl. pár szó ÉS cím:\"Én címem\" ÉS szerző:Szerző vagy év:2017"
 
 msgid "EPUB"
 msgstr "EPUB"
