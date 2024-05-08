@@ -133,7 +133,7 @@ msgid "Add an attachment"
 msgstr "Új csatolmány hozzáadása"
 
 msgid "Add crop marks to the PDF"
-msgstr "VÁgási segédvonalak hozzáadása a PDFhez"
+msgstr "Vágási segédvonalak hozzáadása a PDFhez"
 
 msgid "Add new remote repository"
 msgstr "TÁvoli repó hozzáadása"
