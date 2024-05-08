@@ -157,7 +157,7 @@ msgid "Add the selected parts to the bookbuilder"
 msgstr "A kiválasztott részek hozzáadása a könyvkészítőhöz"
 
 msgid "Add the whole text"
-msgstr Teljes szöveg hozzáadása""
+msgstr "Teljes szöveg hozzáadása"
 
 msgid "Add this text to the bookbuilder"
 msgstr "A szöveg hozzáadása a könyvkészítőhöz"
