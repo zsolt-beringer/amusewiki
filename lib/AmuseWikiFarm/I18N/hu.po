@@ -3435,7 +3435,7 @@ msgid "You can create a peer at %1"
 msgstr "Létrehozhatod itt %1"
 
 msgid "You can do so answering a simple question."
-msgstr "Egy egyszerű lárdás ,egvűéaszpéűsűval kezdheted."
+msgstr "Egy egyszerű kérdés, amivel kezdheted."
 
 msgid "You can tune them editing them here."
 msgstr "Itt tudod finomhangolni ezeket."
