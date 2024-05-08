@@ -1576,7 +1576,7 @@ msgid "Links"
 msgstr "Hivatkozások"
 
 msgid "List of paths to attach to this collection, one per line."
-msgstr "Elérési útvonalak amiket a ollekcióhoz adnál (soronként)"
+msgstr "Elérési útvonalak amiket a kollekcióhoz adnál (soronként)"
 
 msgid "List of texts on hold"
 msgstr "Visszatartott szövegek listája"
